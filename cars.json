@@ -1,10 +1,17 @@
-{
-  "cars": [
-    {
-      "name": "m4"
-    },
-    {
-      "name": "csl"
-    }
-  ]
-}
+[
+    {name: 'Audi RS7', img: Front9, link: 'audi-rs7'},
+    {name: 'Audi RSQ8', img: Front5, link: 'audi-rsq8'},
+    {name: 'BMW M8 Competition', img: Front6, link: 'bmw-m8'},
+    {name: 'Mercedes AMG GT S', img: Front1, link: 'mercedes-amg-gt-s'},
+    {name: 'BMW M4', img: Front7, link: 'bmw-m4'},
+    {name: 'Mercedes A45 AMG', img: Front3, link: 'mercedes-a45'},
+    {name: 'Bmw X7', img: Front10, link: 'bmw-x7'},
+    {name: 'Mercedes S', img: Front11, link: 'mercedes-s'},
+    {name: 'Rolls Royce Phantom', img: Front12, link: 'rolls-royce-phantom'},
+    {name: 'Bentley Continental GT', img: Front13, link: 'bentley-continental-gt'},
+    {name: 'Mercedes S Maybach', img: Front14, link: 'mercedes-s-maybach'},
+    {name: 'Mercedes GLS Maybach', img: Front15, link: 'mercedes-gls-maybach'},
+    {name: 'BMW 5', img: Front18, link: 'bmw-5'},
+    {name: 'BMW 3', img: Front19, link: 'bmw-3'},
+    {name: 'Mercedes GLE 220', img: Front20, link: 'mercedes-gle-220'},
+]
